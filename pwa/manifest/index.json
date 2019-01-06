@@ -1,7 +1,7 @@
 {
     "start_url": "/?utm_source=homescreen",
-    "name": "pwa-project",
-    "short_name": "pwa-project",
+    "name": "Homer Test",
+    "short_name": "Homer Test",
     "icons": [
         {
             "src": "/images/icon-512.png",
